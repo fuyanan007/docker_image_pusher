@@ -3,4 +3,4 @@ mysql:8.0.31
 redis:6.2.7
 minio/minio:RELEASE.2022-05-26T05-48-41Z
 nodered/node-red:latest
-emqx/emqx:5.7.1
+emqx/emqx:5.8.3
