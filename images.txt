@@ -6,3 +6,5 @@ nodered/node-red:latest
 emqx/emqx:5.8.3
 keking/kkfileview:latest
 influxdb:2.7
+wurstmeister/zookeeper:latest
+wurstmeister/kafka:latest
