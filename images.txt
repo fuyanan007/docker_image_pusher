@@ -8,3 +8,4 @@ keking/kkfileview:latest
 influxdb:2.7
 wurstmeister/zookeeper:latest
 wurstmeister/kafka:latest
+frangoteam/fuxa:latest
