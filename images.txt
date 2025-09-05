@@ -9,4 +9,4 @@ influxdb:2.7
 wurstmeister/zookeeper:latest
 wurstmeister/kafka:latest
 frangoteam/fuxa:latest
-docker.elastic.co/elasticsearch/elasticsearch:latest
+docker.elastic.co/elasticsearch/elasticsearch:7.10.1
