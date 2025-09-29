@@ -10,4 +10,4 @@ wurstmeister/zookeeper:latest
 wurstmeister/kafka:latest
 frangoteam/fuxa:latest
 docker.elastic.co/elasticsearch/elasticsearch:7.10.1
-anapsix/alpine-java:8_server-jre_unlimited:latest
+anapsix/alpine-java:8_server-jre_unlimited
