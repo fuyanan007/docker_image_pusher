@@ -11,4 +11,4 @@ wurstmeister/kafka:latest
 frangoteam/fuxa:latest
 docker.elastic.co/elasticsearch/elasticsearch:7.10.1
 anapsix/alpine-java:8_server-jre_unlimited
-granafa/granafa:latest
+granafa/granafa:12.3.1
